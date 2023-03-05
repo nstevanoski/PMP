@@ -94,7 +94,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Angular"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -241,7 +241,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Elon Musk"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -262,7 +262,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Bill Gates"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -283,7 +283,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Ionic"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -304,7 +304,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="ReactJs"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -315,28 +315,6 @@
                         android:text="@string/edit"
                         android:textSize="12sp" />
                 </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-
             </TableLayout>
         </ScrollView>
     </TableRow>

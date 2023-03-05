@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">FavoriteTwitterSearch</string>
+    <string name="app_name">Favorite Twitter Search</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_favorite_twitter_searches">FavoriteTwitterSearches</string>
+    <string name="title_activity_favorite_twitter_searches">Favorite Twitter Searches</string>
     <string name="searchURL">http://search.twitter.com/search?q=</string>
     <string name="tagPrompt">Tag your query</string>
     <string name="queryPrompt">Enter Twitter Search query here</string>
